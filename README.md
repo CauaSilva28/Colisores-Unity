@@ -1,7 +1,7 @@
 # Colisores-Unity
 <p>Cena com os tipos de colisores unity feito por Cauã Silva e Gabriel Faria 2ºJogos digitais</p>
 
-# Link do jogo no drive
+# Link da cena no drive
 https://drive.google.com/file/d/18MtXQ4jPGHmprvNrobGoV9oFdt7cvNyu/view?usp=sharing
 
 # Explicação da cena
@@ -33,7 +33,7 @@ https://drive.google.com/file/d/18MtXQ4jPGHmprvNrobGoV9oFdt7cvNyu/view?usp=shari
 
 <img src="img/rigidbodypainel.jpg" />
 
-<p>Em nossa cena o RigidBody collider foi utilizado no personagem, no monstro e nos troncos espalhados na floresta(podem ser empurrados pelo personagem e pelo monstro).</p>
+<p>Em nossa cena o RigidBody collider foi utilizado no personagem, no monstro e nos troncos espalhados na floresta(podem ser empurrados pelo personagem e pelo monstro). Quando o monstro colide com o personagem, é ativado uma animação do monstro atacando.</p>
 
 <img src="img/rigidbodycolliderimg.jpg" />
 
@@ -60,7 +60,7 @@ https://drive.google.com/file/d/18MtXQ4jPGHmprvNrobGoV9oFdt7cvNyu/view?usp=shari
 
 <img src="img/rigidbodytriggerpainel.jpg" />
 
-<p>Em nossa cena ele foi utilizado na fruta que o personagem joga no monstro. Quando ela entra na área de colisão do monstro, ele fica com a velocidade igual à 0 e é ativado uma animação do monstro desmaiado durante 5 segundos. Ela é destruida quando entra na aréa de colisão das laterais e do chão.</p>
+<p>Em nossa cena ele foi utilizado na fruta que o personagem joga no monstro. Quando ela entra na área de colisão do monstro, ele fica com a velocidade igual à 0 e é ativado uma animação do monstro desmaiado durante 5 segundos. Ela é destruida quando entra na aréa de colisão das laterais e do chão. É possível jogar apenas 5 frutas, se acabar, mostrará uma mensagem dizendo "Acabou suas frutas!".</p>
 
 <img src="img/rigidbodytrigger.jpg" />
 
@@ -74,3 +74,4 @@ https://drive.google.com/file/d/18MtXQ4jPGHmprvNrobGoV9oFdt7cvNyu/view?usp=shari
 <img src="img/kinematictriggerimg.jpg" />
 
 # Vídeo da execução do projeto
+https://github.com/CauaSilva28/Colisores-Unity/assets/127631052/0d641a91-8799-4880-b4a3-962c1820cd9b
