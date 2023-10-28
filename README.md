@@ -1,6 +1,9 @@
 # Colisores-Unity
 <p>Cena com os tipos de colisores unity feito por Cauã Silva e Gabriel Faria 2ºJogos digitais</p>
 
+# Link do jogo no drive
+https://drive.google.com/file/d/18MtXQ4jPGHmprvNrobGoV9oFdt7cvNyu/view?usp=sharing
+
 # Explicação da cena
 <p>A cena se passa em uma floresta a noite, onde um monstro persegue o personagem a todo momento. O personagem possui frutas que derrubam o monstro e possuem lugares na cena que são as safes zones(áreas onde o monstro não consegue atacar o personagem).</p>
 
@@ -57,7 +60,7 @@
 
 <img src="img/rigidbodytriggerpainel.jpg" />
 
-<p>Em nossa cena ele foi utilizado na fruta que o personagem joga no monstro. Quando ela entra na área de colisão do monstro, ele fica com a velocidade igual à 0 e é ativado uma animação do monstro demaiado durante 5 segundos. Ela é destruida quando entra na aréa de colisão das laterais e do chão.</p>
+<p>Em nossa cena ele foi utilizado na fruta que o personagem joga no monstro. Quando ela entra na área de colisão do monstro, ele fica com a velocidade igual à 0 e é ativado uma animação do monstro desmaiado durante 5 segundos. Ela é destruida quando entra na aréa de colisão das laterais e do chão.</p>
 
 <img src="img/rigidbodytrigger.jpg" />
 
