@@ -74,4 +74,4 @@ https://drive.google.com/file/d/18MtXQ4jPGHmprvNrobGoV9oFdt7cvNyu/view?usp=shari
 <img src="img/kinematictriggerimg.jpg" />
 
 # Vídeo da execução do projeto
-https://github.com/CauaSilva28/Colisores-Unity/assets/127631052/0d641a91-8799-4880-b4a3-962c1820cd9b
+https://drive.google.com/file/d/1u3bP6wdm6GVIaCaVOZXs3eQ0IyhmRzj0/view?usp=sharing
