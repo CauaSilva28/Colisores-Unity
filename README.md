@@ -1,5 +1,5 @@
-# Colisores-Unity
-<p>Cena com os tipos de colisores unity feito por Cauã Silva e Gabriel Faria 2ºJogos digitais</p>
+# Colisores, Menu e HUD unity
+<p>Feito por Cauã Silva e Gabriel Faria 2ºJogos digitais</p>
 
 # Link da cena no drive
 https://drive.google.com/file/d/18xF9EK3bKKlzsKSXzoRabZnKJzQHPZP1/view?usp=sharing
