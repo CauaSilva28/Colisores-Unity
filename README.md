@@ -2,7 +2,7 @@
 <p>Cena com os tipos de colisores unity feito por Cauã Silva e Gabriel Faria 2ºJogos digitais</p>
 
 # Link da cena no drive
-
+https://drive.google.com/file/d/18xF9EK3bKKlzsKSXzoRabZnKJzQHPZP1/view?usp=sharing
 
 # Explicação da cena
 <p>A cena se passa em uma floresta a noite, onde um monstro persegue o personagem a todo momento. O personagem possui frutas que derrubam o monstro e possuem lugares na cena que são as safes zones(áreas onde o monstro não consegue atacar o personagem).</p>
@@ -113,7 +113,7 @@
 
 <p>Criamos a imagem de fundo no photoshop, ela foi feita pensando na visão do jogador após sua morte, contendo o monstro que o matou e tudo na cor vermelha com sangues espalhados.</p>
 
-<p>Nela possui um texto escrito "Você morreu" e três botões, um que ao clicar voltará para a cena do jogo, outro que ao clicar voltará para o cena do menu e por fim um para sair do jogo.</p>
+<p>Nela possui um texto escrito "Você morreu" e três botões, um que ao clicar voltará para a cena do jogo, outro que ao clicar voltará para a cena do menu e por fim um para sair do jogo.</p>
 
 # Vídeo da execução do projeto
-
+<a href="https://youtu.be/qtcssJBjBoE">Clique aqui para ver o vídeo da execução do projeto</a>
