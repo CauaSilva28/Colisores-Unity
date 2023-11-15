@@ -2,7 +2,7 @@
 <p>Cena com os tipos de colisores unity feito por Cauã Silva e Gabriel Faria 2ºJogos digitais</p>
 
 # Link da cena no drive
-<a href="https://drive.google.com/file/d/18lYj3A6eYm84FmG9hTI0GbMSbgunwOpk/view?usp=sharing">Jogo para baixar e jogar</a>
+
 
 # Explicação da cena
 <p>A cena se passa em uma floresta a noite, onde um monstro persegue o personagem a todo momento. O personagem possui frutas que derrubam o monstro e possuem lugares na cena que são as safes zones(áreas onde o monstro não consegue atacar o personagem).</p>
